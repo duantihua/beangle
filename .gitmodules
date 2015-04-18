@@ -1,0 +1,33 @@
+[submodule "beangle"]
+	path = beangle
+	url = git@github.com:beangle/beangle.git
+[submodule "commons"]
+	path = commons
+	url = git@github.com:beangle/commons.git
+[submodule "data"]
+	path = data
+	url = git@github.com:beangle/data.git
+[submodule "security"]
+	path = security
+	url = git@github.com:beangle/security.git
+[submodule "spring"]
+	path = spring
+	url = git@github.com:beangle/spring.git
+[submodule "webmvc"]
+	path = webmvc
+	url = git@github.com:beangle/webmvc.git
+[submodule "maven"]
+	path = maven
+	url = git@github.com:beangle/maven.git
+[submodule "template"]
+	path = template
+	url = git@github.com:beangle/template.git
+[submodule "tomcat"]
+	path = tomcat
+	url = git@github.com:beangle/tomcat.git
+[submodule "db"]
+	path = db
+	url = git@github.com:beangle/db.git
+[submodule "site"]
+	path = site
+	url = git@github.com:beangle/beangle.github.io.git
